@@ -1,3 +1,6 @@
-# car-detection
+## Vehicle Detection, Tracking, and Speed Estimation ##
 
-This project includes car detection using YOLO and estimating speed of an object.
+This project includes Vehicle Detection, Tracking, and Speed Estimation using YOLOv5.
+
+In progress...\
+▰▰▰▰▰▰▱▱▱▱ 60%
