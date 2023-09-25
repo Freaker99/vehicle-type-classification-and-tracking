@@ -1,9 +1,8 @@
-## Vehicle Detection, Tracking, and Speed Estimation ##
+## Vehicle Type Classification And Tracking
 
-This project includes Vehicle Detection, Tracking, and Speed Estimation using YOLOv5.
+This project includes Object Detection, Type Classicifation and Tracking using YOLOv5.
 
-In progress...\
-▰▰▰▰▰▰▰▰▰▱ 90%
+▰▰▰▰▰▰▰▰▰▰ 100%
 
 Here are the picture belows showing the results of the work:
 
