@@ -1,6 +1,6 @@
 ## Vehicle Type Classification And Tracking
 
-Link to the project in case car_detection.ipynb does not open properly:
+Link to the project in case **car_detection.ipynb** does not open properly:
 https://colab.research.google.com/drive/1qT0ljzGAMB0inCouexfN8NKoE5T3CTJ_?usp=sharing
 
 This project presents the concept and implementation of a tool for detecting and classifying objects in traffic. The goal was to develop a tool for detecting and classifying objects in traffic, which can be used to assess the level of road noise and its impact on the environment.
