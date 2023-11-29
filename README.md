@@ -29,6 +29,9 @@ The core of the project consisted of training and experiments with various model
 
 The project yielded promising results. The trained YOLOv5s model achieved an F1-score of 0.449 on the test dataset, confirming its capability for effective object detection and classification. The F1-score before training was 0.336, so the classification efficiency was improved. In addition, tests conducted on real traffic recordings validated the model's practical effectiveness.
 
+![Alt text](effectiveness1.png?raw=true "Efectiveness")
+![Alt text](effectiveness2.png?raw=true "Efectiveness")
+
 ## Screenshots
 
 ![Alt text](example_clear.png?raw=true "Vehicle Tracking")
